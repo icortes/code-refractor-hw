@@ -1,37 +1,37 @@
-# Project Title
+# 01: Code Refractor
 
-One paragraph of project description goes here.
+The purpose of this project is to understand the value of web accessibility and the usage of semantic HTML. Web accessibility ensures that people with dissabilities can access websites using assistive technoligies like video captions, screen readers, and braille keyboards. Using more specific tags in your HTML makes it easier for you and others undertand your code.
 
-## Getting Started
+## Task Given
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
+### User Story
 
 ```
-Give examples
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
+### Acceptance Criteria
 
 ```
-Give the example
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 ```
 
-And repeat
+## Solution
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
+![image of html code](./assets/images/Screenshot-1.png)
 
 ## Built With
 
