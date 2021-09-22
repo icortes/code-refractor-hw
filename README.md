@@ -12,6 +12,12 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+<details>
+    <summary markdown="span" style="font-weight: bolder">Click to show screenshot of the website! 
+    </summary>
+    <img alt="image of website" src="assets/images/Screenshot-3.png">
+</details>
+<br>
 
 ### Acceptance Criteria
 
